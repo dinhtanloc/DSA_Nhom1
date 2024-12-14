@@ -16,8 +16,7 @@ Dự án được lập trình chính bằng ngôn ngữ **Javascript** và **Ja
    Xem chi tiết tại [npm documentation](https://docs.npmjs.com/).
 2. **Cài đặt Maven management (mvn)**  
    Xem chi tiết tại [Maven documentation](https://maven.apache.org/).
-3. **Thiết lập MongoDB Atlas**  
-   Xem chi tiết tại [MongoDB Atlas documentation](https://www.mongodb.com/atlas).
+
 
 ### 2.2. Sao chép và thiết lập dự án
 Clone dự án từ GitHub:
